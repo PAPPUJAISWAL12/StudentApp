@@ -1,0 +1,29 @@
+﻿@model List<StudentApp.Models.DocumentCategoryView>
+<style>
+    .card{
+        width:300px;
+    }
+
+    .myimage{
+        height:200px;
+        object-fit:cover;
+        object-position:top;
+    }
+</style>
+@foreach(var item in Model)
+{
+    <div class="">
+        <div class="card p-2 m-2" data-aos="zoom-in-up">
+            <div class="card-content">
+                <img class="myimage" src="~/docimage/@item.DocFile" />
+            </div>
+            <div class="">
+                <div class="text-center">
+                    <h2>@item.Title</h2>
+                    <p style="margin-left:140px;">@item.Descriptions</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+}

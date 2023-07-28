@@ -1,0 +1,261 @@
+{
+  "Files": [
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\Images\\istockphoto-1392125218-170667a.webp",
+      "PackagePath": "staticwebassets\\Images\\istockphoto-1392125218-170667a.webp"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\Images\\istockphoto-1408304009-170667a.webp",
+      "PackagePath": "staticwebassets\\Images\\istockphoto-1408304009-170667a.webp"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\Images\\istockphoto-1415740411-170667a.webp",
+      "PackagePath": "staticwebassets\\Images\\istockphoto-1415740411-170667a.webp"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\Images\\undraw_mobile_payments_re_7udl.svg",
+      "PackagePath": "staticwebassets\\Images\\undraw_mobile_payments_re_7udl.svg"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\Images\\undraw_mobile_web_-2-g8b.svg",
+      "PackagePath": "staticwebassets\\Images\\undraw_mobile_web_-2-g8b.svg"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\Images\\undraw_personal_website_re_c8dv.svg",
+      "PackagePath": "staticwebassets\\Images\\undraw_personal_website_re_c8dv.svg"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\Images\\undraw_profile_data_re_v81r.svg",
+      "PackagePath": "staticwebassets\\Images\\undraw_profile_data_re_v81r.svg"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\Images\\undraw_services_re_hu5n.svg",
+      "PackagePath": "staticwebassets\\Images\\undraw_services_re_hu5n.svg"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\Images\\undraw_team_work_k-80-m.svg",
+      "PackagePath": "staticwebassets\\Images\\undraw_team_work_k-80-m.svg"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\docImage\\111c157a-eddb-4c57-99db-52e97f94a341.jpg",
+      "PackagePath": "staticwebassets\\docImage\\111c157a-eddb-4c57-99db-52e97f94a341.jpg"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\docImage\\2beaf628-91be-47ac-bf09-0ec541c94420.jpg",
+      "PackagePath": "staticwebassets\\docImage\\2beaf628-91be-47ac-bf09-0ec541c94420.jpg"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\docImage\\455edde0-5d43-4d1a-9786-9473d7a61c68.jpg",
+      "PackagePath": "staticwebassets\\docImage\\455edde0-5d43-4d1a-9786-9473d7a61c68.jpg"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\docImage\\52ebacad-57ed-4acb-b4f5-df2881bac2d5.png",
+      "PackagePath": "staticwebassets\\docImage\\52ebacad-57ed-4acb-b4f5-df2881bac2d5.png"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\docImage\\a2a87d78-03ad-41a7-867e-db50fd0c8c4d.png",
+      "PackagePath": "staticwebassets\\docImage\\a2a87d78-03ad-41a7-867e-db50fd0c8c4d.png"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\docImage\\e5f0c411-a4f0-4b21-a2c6-a8d74eb62687.png",
+      "PackagePath": "staticwebassets\\docImage\\e5f0c411-a4f0-4b21-a2c6-a8d74eb62687.png"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.js"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "H:\\visual studio\\StudentApp\\StudentApp\\wwwroot\\twitter-bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\twitter-bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.StudentApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.StudentApp.props",
+      "PackagePath": "build\\StudentApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.StudentApp.props",
+      "PackagePath": "buildMultiTargeting\\StudentApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.StudentApp.props",
+      "PackagePath": "buildTransitive\\StudentApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

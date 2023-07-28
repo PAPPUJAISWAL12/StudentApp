@@ -1,0 +1,48 @@
+﻿@model List<StudentApp.Models.DocumentCategoryView>
+
+
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table" id="data">
+    <thead>
+        <tr>
+            <th>
+             Title
+            </th>
+            <th>
+               Descriptions
+            </th>
+            <th>image</th>
+            <th>
+                CategoryName
+            </th>
+         
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descriptions)
+            </td>
+            <td>
+                <img src="~/docimage/@item.DocFile" width="100" />
+            </td>
+            <td>
+               @item.CategoryName
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.DocId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.DocId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.DocId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,182 @@
+﻿<style>
+    .carousel-item  .img-fluid{
+        height:600px;
+    }
+    .myImage{
+        width:200px
+    }
+    .services .card{
+        height:330px;
+    }
+    .card-content > img{
+        width:100%;
+    }
+     .line{
+        background-color:red;
+        height:4px;
+        border-radius:5px;
+        width:300px;
+        margin:auto;
+    }
+    .header-title-contact{
+        color:white;
+        margin-top:100px;
+    }
+    .header-title-contact .line1{
+        background-color:red;
+        height:4px;
+        border-radius:5px;
+        width:300px;
+        margin:auto;
+    }
+        .card{
+    position:relative;
+    transition:0.5s;
+    }
+
+    .card .team-info {
+        background: rgba(0,0,0,0.5);
+        width: 100%;
+        left: 0;
+        right: 0;
+        position: absolute;
+        opacity:0;
+    }
+    .card:hover .team-info {
+        background: rgba(0,0,0,0.5);
+        width: 100%;
+        left: 0;
+        right: 0;
+        top:0;
+        bottom:0;
+        position: absolute;
+        opacity: 2;
+        height:225px;
+        color:white;
+        height:1px;
+    }
+    .card:hover .team-info .text-center{
+        margin-top:120px;        
+    }
+   
+</style>
+<div id="carouselExampleCaptions" class="carousel slide">
+    <div class="carousel-indicators">
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    </div>
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="~/images/istockphoto-1392125218-170667a.webp" class="d-block w-100 img-fluid" alt="...">
+            
+            <div class="carousel-caption d-none d-md-block">
+                <h5>First slide label</h5>
+                <p>Some representative placeholder content for the first slide.</p>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img src="~/images/istockphoto-1408304009-170667a.webp" class="d-block w-100" alt="...">
+            <div class="carousel-caption d-none d-md-block">
+                <h5>Second slide label</h5>
+                <p>Some representative placeholder content for the second slide.</p>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img src="~/images/istockphoto-1415740411-170667a.webp" class="d-block w-100" alt="...">
+            <div class="carousel-caption d-none d-md-block">
+                <h5>Third slide label</h5>
+                <p>Some representative placeholder content for the third slide.</p>
+            </div>
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+
+    <section class="mt-5">
+        <div class="container mt-4">
+            <div class="header-title text-center">
+                <h2>Our Team</h2>
+                <div class="line"></div>
+            </div>
+        <a asp-action="TeamList" asp-controller="Documents" data-ajax="true" data-ajax-method="get" data-ajax-Update="#Team-data" id="btn-team-load"> click</a>
+            <div class="d-flex flex-wrap flex-md-row mt-4" id="Team-data">
+               
+            </div>
+        </div>
+    </section>
+
+
+    <section>
+        <div class="container">
+        <div class="header-title text-center">
+            <h2>Our Services</h2>
+            <div class="line"></div>
+        </div>
+            <div class="row mt-4 services">
+                <div class="col-sm-4">
+                    <div class="card m-2 p-2 shadow">
+                    <img src="~/images/undraw_mobile_web_-2-g8b.svg" class="img-fluid myImage" />
+                    <p>Some placeholder content for the collapse component. This panel is hidden by default but revealed when the user activates the relevant trigger.</p>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="card m-2 p-2 shadow">
+                    <img src="~/images/undraw_mobile_payments_re_7udl.svg" class="img-fluid myImage" />
+                    <p>Some placeholder content for the collapse component. This panel is hidden by default but revealed when the user activates the relevant trigger.</p>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="card m-2 p-2 shadow">
+                    <img src="~/images/undraw_services_re_hu5n.svg" class="img-fluid myImage" />
+                    <p>Some placeholder content for the collapse component. This panel is hidden by default but revealed when the user activates the relevant trigger.</p>
+                   </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+<section>
+    <div class="container-fluid bg-image">
+        <div class="bg-color">
+            <div class="header-title-contact text-center">
+                <h2>Contact Us</h2>
+                <div class="line1"></div>
+            </div>
+        </div>
+    </div>
+    <div class="container">        
+        <div class="row mt-4">
+            <div class="col-sm-6">
+
+
+                <a asp-action="Create" hidden asp-controller="UserMessages" id="btn-contactform" data-ajax="true" data-ajax-method="get" data-ajax-update="#contact-form" >click</a>
+                <div id="contact-form">
+                </div>
+
+
+
+            </div>
+            <div class="col-sm-6">
+                <div class="">
+                    <img src="~/images/undraw_profile_data_re_v81r.svg"  class="img-fluid"/>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<script>
+    $(document).ready(function(){
+        $('#btn-contactform')[0].click();
+        $('#btn-team-load').click();
+    });
+</script>

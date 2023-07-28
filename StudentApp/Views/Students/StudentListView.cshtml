@@ -1,0 +1,16 @@
+﻿<h1>StudentList View</h1>
+<a asp-action="StudentList" asp-controller="Students" class="btn btn-primary"
+   data-ajax="true" id="btn-click" data-ajax-method="get" data-ajax-update="#stdList">click</a>
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>S.N</th>
+                <th>Name</th>
+                <th>Address</th>
+            </tr>
+        </thead>
+        <tbody id="stdList">
+        </tbody>
+    </table>
+</div>

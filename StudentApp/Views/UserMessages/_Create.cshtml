@@ -1,0 +1,38 @@
+﻿@model StudentApp.Models.UserMessage
+
+        <form asp-action="Create" data-ajax="true" data-ajax-method="post" data-ajax-complete="postMessage">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Uname" class="control-label"></label>
+        <input asp-for="Uname" class="form-control myinput" />
+                <span asp-validation-for="Uname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Uaddress" class="control-label"></label>
+        <input asp-for="Uaddress" class="form-control myinput" />
+                <span asp-validation-for="Uaddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Uphone" class="control-label"></label>
+                <input asp-for="Uphone" class="form-control myinput" />
+                <span asp-validation-for="Uphone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Umsg" class="control-label"></label>
+        <input asp-for="Umsg" class="form-control myinput" />
+                <span asp-validation-for="Umsg" class="text-danger"></span>
+            </div>
+            <div class="form-group float-end">
+                <input type="submit" value="Send" class="btn btn-primary" />
+            </div>
+        </form>
+   <script>
+       postMessage=function(xhr){
+           if(xhr.responseText=="success"){
+               alert("Message Sended Successfully");
+               $('.myinput').val('');
+           }else{
+               alert("Failled");
+           }
+       }
+   </script>
